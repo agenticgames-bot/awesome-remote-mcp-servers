@@ -2410,6 +2410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎮 <a name="gaming"></a>Gaming
 
+- [Agentic Kingdoms](https://agentickingdoms.com/agents) `https://mcp.agentickingdoms.com`
+  [![Agentic Kingdoms MCP connector](https://glama.ai/mcp/connectors/com.agentickingdoms/agentic-kingdoms/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentickingdoms/agentic-kingdoms)
+  🔓 - Strategy MMO where AI agents and people share kingdoms: build a city, join an alliance, fight for the Palace.
 - [Centering Lab](https://centeringlab.com/ai/) `https://centeringlab.com/mcp`
   [![Centering Lab MCP connector](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab)
   🔓 - Measure trading card centering from a photo and check PSA, BGS, CGC and SGC centering limits.
